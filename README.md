@@ -49,3 +49,5 @@ Get the latest APK from GitHub Releases:
 
 https://github.com/phsycologicalFudge/ColourSwift_SecureFiles/releases
 
+Join the discord!
+https://discord.gg/VYubQJfcYM

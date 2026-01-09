@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">firebasestorage.googleapis.com</domain>
+        <domain includeSubdomains="true">database-3b566.firebasestorage.app</domain>
+        <domain includeSubdomains="true">phsycologicalfudge.github.io</domain>
+        <domain includeSubdomains="true">cloud.colourswift.com</domain>
+    </domain-config>
+</network-security-config>
